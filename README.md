@@ -2,9 +2,7 @@
 
 ## 📌 Project Overview
 
-This project is part of my Data Analytics learning journey, where I worked on a course-provided demo dataset to perform sales and financial analysis using Microsoft Excel.
-
-The project focuses on understanding business performance through reports, KPIs, trends, and comparisons.
+This project is part of my Data Analytics learning journey, where I worked on a course-provided demo dataset to perform sales and financial analysis using Microsoft Excel. The project involved data cleaning and transformation using Power Query, followed by analysis and reporting using Pivot Tables and Excel. Also this project focuses on understanding business performance through reports, KPIs, trends, and comparisons.
 
 ---
 
