@@ -94,7 +94,7 @@ Through this project, I practiced:
 
 This project uses a demo dataset provided as part of my Data Analytics course for learning and portfolio purposes.
 
-The dataset and company references are used only for educational analysis and are not intended to represent actual professional work performed for the company.
+The dataset and company references are used only for educational analysis and are not intended to represent actual professional work performed for the company. The original course dataset is not included or redistributed in this repository.
 
 ---
 
